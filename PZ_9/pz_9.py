@@ -8,7 +8,7 @@ raduga = {"США", "Испания", "Швеция", "Австралия"}
 
 
 print("Туры в Канаду можно купить в следующих турагентствах:")
-if "Канада" in voyaj:
+if "Канада" in voyazh:
     print("Вояж")
 if "Канада" in reina_tur:
     print("РейнаТур")
@@ -16,9 +16,10 @@ if "Канада" in raduga:
     print("Радуга")
 
 print("Туры в США можно купить в следующих турагентствах:")
-if "США" in voyaj:
+if "США" in voyazh:
     print("Вояж")
 if "США" in reina_tour:
     print("РейнаТур")
 if "США" in raduga:
     print("Радуга")
+
